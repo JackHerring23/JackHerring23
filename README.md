@@ -19,7 +19,7 @@
           - Brighton (LCC)
           - snowbasin
         - big sky
-        - 
+        - whistler-blackcomb
 
 <!---
 JackHerring23/JackHerring23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
