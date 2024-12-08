@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JackHerring23. I prefer to go by "Julia"
+- 👋 Hi, I’m @JackHerring23.
 - 👀 I’m interested in sports of all kinds, data science, weather.
 - 🌱 I’m currently learning HTML, CSS, and python.
 - 💞️ I’m looking to collaborate on nothing at the minute.
