@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @JackHerring23. I prefer to go by "Julia"
-- 👀 I’m interested in sports of all kinds, data science, weather, and feminine interests.
+- 👀 I’m interested in sports of all kinds, data science, weather.
 - 🌱 I’m currently learning HTML, CSS, and python.
 - 💞️ I’m looking to collaborate on nothing at the minute.
 - 📫 How to reach me:
       - email: juliaherringnc@outlook.com
       - instagram/threads: @jack_herring23
       - x: @onehornetsplace
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: He/Him.
 - ⚡ Fun facts:
     - I know how to slalom waterski
     - I have gone skiing at 9 different resorts:
